@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078014453255",
+    "project_id": "connect-354ab",
+    "storage_bucket": "connect-354ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078014453255:android:c443facec497767382eca2",
+        "android_client_info": {
+          "package_name": "com.biserica.connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZBa6jNXPOnsfeT32qtDHvLu23CvSOzkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
